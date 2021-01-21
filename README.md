@@ -1,5 +1,7 @@
 ## Proyecto
-Proyecto react con el uso de useContext y con diferentes peticiones a una API.
+Proyecto react con diferentes peticiones a una API.
+https://opentdb.com/api_config.php
+
 
 ## Github pages
 https://jordicher.github.io/react-trivial/
@@ -9,6 +11,7 @@ Este proyecto se presenta como un reto en el video de youtube
 Construye un portafolio de desarrollo | yo reaccionaré a tu código
 [https://www.youtube.com/watch?v=aouDQ8caJYg&t=477s&ab_channel=HolaMundo](videoYoutube)
 
+Aunque el reto planteaba 20 preguntas. Para hacerlo más ameno se han reducido a 10.
 
 ![Design preview](./img/login.png)
 ![Design preview](./img/selectCategory.png)
