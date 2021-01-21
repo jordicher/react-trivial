@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-trivial/static/css/main.c544e771.chunk.css",
+    "main.js": "/react-trivial/static/js/main.1c92f1f7.chunk.js",
+    "main.js.map": "/react-trivial/static/js/main.1c92f1f7.chunk.js.map",
+    "runtime-main.js": "/react-trivial/static/js/runtime-main.c4c9c455.js",
+    "runtime-main.js.map": "/react-trivial/static/js/runtime-main.c4c9c455.js.map",
+    "static/js/2.768e1a51.chunk.js": "/react-trivial/static/js/2.768e1a51.chunk.js",
+    "static/js/2.768e1a51.chunk.js.map": "/react-trivial/static/js/2.768e1a51.chunk.js.map",
+    "static/js/3.0d16432c.chunk.js": "/react-trivial/static/js/3.0d16432c.chunk.js",
+    "static/js/3.0d16432c.chunk.js.map": "/react-trivial/static/js/3.0d16432c.chunk.js.map",
+    "index.html": "/react-trivial/index.html",
+    "static/css/main.c544e771.chunk.css.map": "/react-trivial/static/css/main.c544e771.chunk.css.map",
+    "static/js/2.768e1a51.chunk.js.LICENSE.txt": "/react-trivial/static/js/2.768e1a51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c9c455.js",
+    "static/js/2.768e1a51.chunk.js",
+    "static/css/main.c544e771.chunk.css",
+    "static/js/main.1c92f1f7.chunk.js"
+  ]
+}
